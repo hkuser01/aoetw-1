@@ -131,7 +131,7 @@
               <nuxt-link to="/building/Archery_Range"
                 ><img class="ng" src="~assets/Acheryrangeicon.png" alt=""
               /></nuxt-link>
-              <div>
+              <div id="射箭場">
                 <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
               </div>
             </td>
@@ -249,7 +249,7 @@
               <nuxt-link to="/building/Stable"
                 ><img class="ng" src="~assets/Stableicon.png" alt=""
               /></nuxt-link>
-              <div><nuxt-link to="/building/Stable">馬廄</nuxt-link></div>
+              <div id="馬廄"><nuxt-link to="/building/Stable">馬廄</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -1259,7 +1259,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/techs/Illumination not">啟發教化</nuxt-link>
+                <nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>
               </div>
             </td>
             <td class="t11 trm">
